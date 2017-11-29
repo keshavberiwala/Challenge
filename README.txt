@@ -30,6 +30,8 @@ Once I've added all words to the output list, I call Java's built in Collections
 TESTING
 I tested my code with an online dictionary. I have included the test results (as a screenshot) and the dictionary as text.txt
 
+I also tested with the input given in the question specs. It is included as ‘Test - Given Input’ and ‘given_test.txt’
+
 
 NOTES for possible mismatches in expected output:
 
