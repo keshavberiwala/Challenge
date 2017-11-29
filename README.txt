@@ -32,6 +32,8 @@ I tested my code with an online dictionary. I have included the test results (as
 
 I also tested with the input given in the question specs. It is included as ‘Test - Given Input’ and ‘given_test.txt’
 
+I also had small unit tests as a part of the debugging process, but had to remove them as they altered the function signatures temporarily. 
+
 
 NOTES for possible mismatches in expected output:
 
