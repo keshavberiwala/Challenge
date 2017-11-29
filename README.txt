@@ -27,6 +27,10 @@ of the word in the dictionary.
 Once I've added all words to the output list, I call Java's built in Collections.sort() on the list, and print it out.
 
 
+TESTING
+I tested my code with an online dictionary. I have included the test results (as a screenshot) and the dictionary as text.txt
+
+
 NOTES for possible mismatches in expected output:
 
 NOTE 1: During testing my code, I ran into an error where the apostrophe in the words in the dictionary were considered different
